@@ -1,7 +1,9 @@
 <!--타이틀 부분-->
 <div align="center">
-  <h1>Hello, I'm aengkrrrrr</h1>
+  <h1>Hello, I'm WonSeok</h1>
 </div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
