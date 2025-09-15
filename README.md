@@ -61,14 +61,13 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengkrrrrr&layout=compact) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aengkrrrrr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timcho19&layout=compact) 
+![WONSEOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=timcho19&show_icons=true&theme=radical)
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:srimm3399@naver.com">
+  <a href="dnjstjr1994@naver.com">
     <img
-      src="https://img.shields.io/badge/srimm3399@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/dnjstjr1994@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
