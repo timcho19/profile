@@ -56,12 +56,16 @@
 </div>
 
 <br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timcho19&layout=compact) 
 ![WONSEOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=timcho19&show_icons=true&theme=radical)
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<br>
+<br>
+
+<h3 >📫 Contact 📫</h3>
+<div>
   <a href="dnjstjr1994@naver.com">
     <img
       src="https://img.shields.io/badge/dnjstjr1994@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
