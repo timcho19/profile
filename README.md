@@ -71,3 +71,10 @@
       src="https://img.shields.io/badge/dnjstjr1994@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
+<br>
+
+<h3> 진행중인 프로젝트 </h3>
+
+[![완두프로젝트](https://github-readme-stats.vercel.app/api/pin/?username=timcho19&repo=wandoo-project)](https://github.com/timcho19/wandoo-project)
